@@ -25,7 +25,7 @@ def crawl(url):
         print("Failed to retrieve content from the URL:", url)
 
 # URL of the website you want to crawl
-start_url = 'https://superstorefinder.net'
+start_url = 'http://example.com'
 
 # Start crawling
 crawl(start_url)

@@ -8,6 +8,8 @@ This Python script is a simple web crawler that retrieves the content of a webpa
 - Requests library
 - BeautifulSoup library
 
+## USAGE
+You could use this script to get the hidden links to website that are not available on the surface.
 ## Installation
 
 1. Clone the repository:

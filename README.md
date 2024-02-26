@@ -10,6 +10,14 @@ This Python script is a simple web crawler that retrieves the content of a webpa
 
 ## Usage
 You could use this script to get the hidden links to website that are not available on the surface.
+
+## About files
+in webcrawler.py it will crawl the website for text & links
+
+in for-links-only.py it will only show the links available on the site.
+
+in for-text-only.py it will only show the text available on the site
+
 ## Installation
 
 1. Clone the repository:
